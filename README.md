@@ -1,17 +1,15 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Yusuf
 <a href="https://www.linkedin.com/in/musayusufmagoban"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+## Brief Introduction 
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey and interest in technology have led me to develop a passion for cybersecurity. I am now eager to transition into this field, specifically to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey and interest in technology have led me to develop a passion for cybersecurity. I am eager to transition into this field, specifically to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -23,7 +21,6 @@ My journey and interest in technology have led me to develop a passion for cyber
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -47,7 +44,6 @@ My journey and interest in technology have led me to develop a passion for cyber
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-ISC2%20CC-4B8BBE?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-SecOps%20CNSP-007ACC?&style=for-the-badge&logo=SecOps&logoColor=white" />
