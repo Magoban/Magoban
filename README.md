@@ -41,6 +41,7 @@ My journey and interest in technology have led me to develop a passion for cyber
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-QRadar-005571?&style=for-the-badge&logo=IBM&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Graylog-DC143C?&style=for-the-badge&logo=Graylog&logoColor=white" />
 </div>
 
 ## Certifications
