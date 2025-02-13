@@ -2,8 +2,10 @@
 <a href="https://www.linkedin.com/in/musayusufmagoban"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Brief Introduction 
-
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+* An aspiring Entry-level **SOC Analyst** passionate about **threat detection, incident response, malware analysis, and digital forensics**.
+* Hands-on experience with **SIEM (Graylog, ELK Stack), IDS/IPS (Suricata), Endpoint Security (OSSEC EDR, Wazuh), and network security tools**.
+* Strong knowledge of **Python, Bash, SQL**, and security testing tools like **Burp Suite, Nmap, Metasploit, and Wireshark**.
+* Currently building my **cybersecurity portfolio** with **malware analysis, SOC home lab setups, and penetration testing projects**. 
 
 ## Objective
 
