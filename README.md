@@ -14,11 +14,7 @@ My journey and interest in technology have led me to develop a passion for cyber
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Magoban/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Malware Analysis and Reverse Engineering | <a href="https://google.com">Malware Analysis Lab</a>|
 
 ## Tools
 
@@ -54,7 +50,7 @@ My journey and interest in technology have led me to develop a passion for cyber
 
 ## Projects
 - <a href="https://github.com/Magoban/Detection-Lab/tree/main">Detection Lab</a>
-- SOC Automation Project
+- Malware Analysis Lab Project
 
 <!---
 Magoban/Magoban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
