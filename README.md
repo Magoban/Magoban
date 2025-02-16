@@ -16,7 +16,7 @@ My journey and interest in technology have led me to develop a passion for cyber
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Magoban/Detection-Lab/tree/main">Detection Lab</a>|
-| Malware Analysis and Reverse Engineering | <a href="https://google.com">Malware Analysis Lab</a>|
+| Malware Analysis and Reverse Engineering | <a href="https://github.com/Magoban/Malware-Analysis-Lab">Malware Analysis Lab</a>|
 
 ## Tools
 
@@ -52,8 +52,7 @@ My journey and interest in technology have led me to develop a passion for cyber
 
 ## Projects
 - <a href="https://github.com/Magoban/Detection-Lab/tree/main">Detection Lab</a>
-- Malware Analysis Lab Project
-
+- <a href="https://github.com/Magoban/Malware-Analysis-Lab">Malware Analysis Lab</a>
 <!---
 Magoban/Magoban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
