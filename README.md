@@ -17,6 +17,7 @@ My journey and interest in technology have led me to develop a passion for cyber
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Magoban/Detection-Lab/tree/main">Detection Lab</a>|
 | Malware Analysis and Reverse Engineering | <a href="https://github.com/Magoban/Malware-Analysis-Lab">Malware Analysis Lab</a>|
+| Keylogger creation using Python       | <a href="https://github.com/Magoban/Python-based-Keylogger">Python-based Keylogger</a>|
 
 ## Tools
 
@@ -53,6 +54,7 @@ My journey and interest in technology have led me to develop a passion for cyber
 ## Projects
 - <a href="https://github.com/Magoban/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/Magoban/Malware-Analysis-Lab">Malware Analysis Lab</a>
+- <a href="https://github.com/Magoban/Python-based-Keylogger">Python-based Keylogger</a>
 <!---
 Magoban/Magoban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
