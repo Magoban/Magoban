@@ -18,6 +18,7 @@ My journey and interest in technology have led me to develop a passion for cyber
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Magoban/Detection-Lab/tree/main">Detection Lab</a>|
 | Malware Analysis and Reverse Engineering | <a href="https://github.com/Magoban/Malware-Analysis-Lab">Malware Analysis Lab</a>|
 | Keylogger creation using Python       | <a href="https://github.com/Magoban/Python-based-Keylogger">Python-based Keylogger</a>|
+| Stock Prediction Project              | <a href="https://github.com/Magoban/Stock-Prediction-Project/tree/main">Python-based Stock Prediction Project</a>|
 
 ## Tools
 
@@ -45,6 +46,7 @@ My journey and interest in technology have led me to develop a passion for cyber
 
 ## Certifications
 <div>
+<img src="https://img.shields.io/badge/-Microsoft%20SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-ISC2%20CC-4B8BBE?&style=for-the-badge&logo=ISC2&logoColor=white" />
 <img src="https://img.shields.io/badge/-SecOps%20CNSP-007ACC?&style=for-the-badge&logo=SecOps&logoColor=white" />
 <img src="https://img.shields.io/badge/-SecOps%20CAP-228B22?&style=for-the-badge&logo=SecOps&logoColor=white" />
@@ -55,6 +57,7 @@ My journey and interest in technology have led me to develop a passion for cyber
 - <a href="https://github.com/Magoban/Detection-Lab/tree/main">Detection Lab</a>
 - <a href="https://github.com/Magoban/Malware-Analysis-Lab">Malware Analysis Lab</a>
 - <a href="https://github.com/Magoban/Python-based-Keylogger">Python-based Keylogger</a>
+- <a href=https://github.com/Magoban/Stock-Prediction-Project/tree/main>Python-based Stock Prediction Project</a>
 <!---
 Magoban/Magoban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
